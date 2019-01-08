@@ -80,3 +80,4 @@ public class InMemoryTimeEntryRepositoryTest {
         assertThat(repo.list()).isEmpty();
     }
 }
+
