@@ -88,7 +88,7 @@ public class TimeEntry {
         return date;
     }
 
-    public int getHours() {
+    public int getHours() {  
         return hours;
     }
 
